@@ -1,5 +1,5 @@
 {
-  "name": "typescript",
+  "name": "@asimaries/ts-fold",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
